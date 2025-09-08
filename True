@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/Xi3kxGtg/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GROWAGARDENSCRIPT-MODZ/Trade-Freeze-Grow-A-Garden/refs/heads/main/True"))()
